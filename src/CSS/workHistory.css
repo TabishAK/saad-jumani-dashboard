@@ -1,0 +1,19 @@
+.container-fluid h3{
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.box{
+    height : 24rem ;
+}
+
+
+.view{
+    margin-top: 25px;
+    border-radius: 15%;
+}
+
+.btn-history, .btn-activity{
+      border-radius: 12%;
+      margin-top: 9px;
+}

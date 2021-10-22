@@ -1,0 +1,69 @@
+.navbar{
+ background: linear-gradient(127deg, #2f89fc 85%, #5effc9 100%);
+ height: 56px;
+ position: sticky !important ;
+ position: -webkit-sticky !important;
+ top: 0 !important;
+ width: 100% !important;
+ z-index: 1;
+}
+
+.glyphicon{
+    color:#fdfdfd;
+}
+
+.forpad{
+    margin-top: 2px;
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+a:hover{
+    text-decoration: none;
+    background-color: transparent !important;
+}
+
+.why{
+   cursor: pointer !important;
+    margin-top: 9px;
+    color:white;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.why1{
+  margin-right: 20px;
+  
+}
+
+.glyphicon-log-in{
+    margin-right: 4px;
+}
+
+.vivid{
+    width:55px;
+    margin-left: -25px;
+}
+
+.nav-btn1{
+    height: 35px;
+    width: 70px;
+    font-weight: 600;
+    color: white;
+    background-color:#3294fc;
+    margin-right: 10px;
+    border-radius: 12%;
+    box-shadow: 3px 3px #4571e7;
+     
+}
+
+.nav-btn2{
+    height: 35px;
+    width: 140px;
+    font-weight: 600;
+    color: white;
+     background-color:#3294fc;  /* #cff3f9 */
+    border-radius: 12%;
+    box-shadow: 3px 3px #4571e7;
+}

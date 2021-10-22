@@ -1,0 +1,26 @@
+
+.footer {
+   
+    position: fixed;
+    bottom: 0;
+    background: linear-gradient(rgb(30 50 33 / 27%), rgb(-79 82 287)), url(/static/media/bg_1.5b03175b.jpg) no-repeat;   
+    
+    /* background: #002147; */
+	height: 300px;
+  width: 100%;
+  
+}
+
+.footer-bottom {
+  margin-bottom: 30px;
+}
+
+.footer p {
+	color: white;
+  font-weight: lighter;
+}
+
+.line{
+  border-bottom: 1px solid #DDDDDD !important;
+  margin-bottom: -30px !important;
+}
